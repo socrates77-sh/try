@@ -3,3 +3,4 @@
 (3) commit -a
 (5.2) in stage area
 (6) modify on dev
+(7.2) modify on master
